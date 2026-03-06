@@ -17,7 +17,7 @@ void input()
         }
         else
         {
-            
+            cout << "error : Maksimal input array adalah 20! \n";
         }
     }
 }
